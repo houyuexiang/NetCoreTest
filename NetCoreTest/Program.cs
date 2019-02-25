@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Data;
+using System.IO;
+using System.Threading;
 
 namespace NetCoreTest
 {
@@ -8,5 +11,6 @@ namespace NetCoreTest
         {
             Console.WriteLine("Hello World!");
         }
+        
     }
 }
